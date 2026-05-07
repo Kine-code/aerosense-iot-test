@@ -195,9 +195,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🤝 Sponsors
-
 AeroSense uses the **[Reyax Cloud MQTT Broker](https://reyax.com//products/RYC1001)** for real-time telemetry infrastructure.
-
-A big thank you to **[Reyax](https://reyax.com//products/RYC1001)** for sponsoring this project with free cloud MQTT services — their reliable broker made real-time telemetry seamless.
-
-> Interested in sponsoring a future project? Reach out via [iotbhai.io](https://iotbhai.io/about/).
