@@ -188,11 +188,9 @@ const char* mqtt_topic = "greenhouse/telemetry";
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+## 📄 Sponsors
+AeroSense uses the **[Reyax Cloud MQTT Broker](https://reyax.com//products/RYC1001)** for real-time telemetry infrastructure.
 
 ---
 
-## 🤝 Sponsors
-AeroSense uses the **[Reyax Cloud MQTT Broker](https://reyax.com//products/RYC1001)** for real-time telemetry infrastructure.
+
